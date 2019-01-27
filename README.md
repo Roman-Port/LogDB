@@ -1,6 +1,9 @@
 # LogDB
 LogDB is an ultra fast write once, read many database. It can quickly write entries to the database by date, however they cannot be removed or edited.
 
+# Warning
+LogDB is still in development and old database files will probably fail to work in a few commits. Don't use at the moment.
+
 ## Features
 * Ultra fast, indexed, realtime writes.
 * Read/Search database by date very quickly
